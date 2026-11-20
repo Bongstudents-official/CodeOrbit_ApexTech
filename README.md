@@ -4,7 +4,7 @@ A responsive, multi-page enterprise technology landing website built with **Boot
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/Bongstudents-official/<your-repo-name>](https://github.com/Bongstudents-official/<your-repo-name>)
+- **GitHub Repository:** [https://github.com/Bongstudents-official/<your-repo-name>](https://github.com/Bongstudents-official/CodeOrbit_ApexTech)
 
 ## 🛠️ Technologies Used
 
@@ -37,11 +37,11 @@ No build steps or local package installations are required.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Bongstudents-official/](https://github.com/Bongstudents-official/)<your-repo-name>.git
+   git clone [https://github.com/Bongstudents-official/](https://github.com/Bongstudents-official/)CodeOrbit_ApexTech.git
    ```
 2. **Navigate to the project folder:**
    ```bash
-   cd <your-repo-name>
+   cd CodeOrbit_ApexTech
    ```
 3. **Run the project:**
    - Open `index.html` in any modern web browser, **or**
